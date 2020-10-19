@@ -1,0 +1,28 @@
+body {
+    background-color: #1f1f1f;
+    border-top: solid 48px;
+    border-color: #c70000;
+    margin: 0%;
+}
+.persontitel {
+    font-weight: 100;
+    
+}
+.text {
+    color: #EEEEEE;
+    padding: 0%;
+    margin: 0%;
+    margin-left: 10%;
+}
+.image {
+    float: right;
+    margin-top: 25px;
+    margin-right: 10%;
+}
+.year {
+    font-weight: 400;
+}
+.undrub {
+    margin-top: 1,2%;
+    margin-bottom: 1,2%;
+}
