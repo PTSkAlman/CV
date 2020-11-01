@@ -1,12 +1,27 @@
 body {
     background-color: #1f1f1f;
-    border-top: solid 48px;
+    margin: 0%;
+    margin-bottom: 5%;
+}
+.bar {
+    border: solid 28px;
     border-color: #c70000;
     margin: 0%;
 }
-.persontitel {
-    font-weight: 100;
-    
+.logo {
+    width: 25px;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+hr.solid {
+    border: 2px solid #c70000;
+    margin-right: 10%;
+    margin-left: 10%;
+
 }
 .text {
     color: #EEEEEE;
@@ -14,10 +29,21 @@ body {
     margin: 0%;
     margin-left: 10%;
 }
+.person {
+    margin-top: 12px;
+}
+.persontitel {
+    font-weight: 100;
+}
 .image {
+    width: 250px;
+    height: auto;
     float: right;
-    margin-top: 25px;
+    margin-top: 12px;
     margin-right: 10%;
+}
+.info {
+    margin-top: 238px;
 }
 .year {
     font-weight: 400;
@@ -25,4 +51,7 @@ body {
 .undrub {
     margin-top: 1,2%;
     margin-bottom: 1,2%;
+}
+.spacer {
+    margin-top: 50px;
 }
